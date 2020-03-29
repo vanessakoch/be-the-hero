@@ -9,4 +9,3 @@ Nessa edição trabalhamos com o desenvolvimento de uma aplicação chamada **Be
 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQFwlXQpCQ-bsw/feedshare-shrink_2048_1536/0?e=1588204800&v=beta&t=uW2BziUksD2dnw7Cz4J7JzSgRBAPFIRLmc9qDUzn6RA)
 
-![](https://media-exp1.licdn.com/dms/image/C4D22AQHAGAirM5x_bQ/feedshare-shrink_800/0?e=1588204800&v=beta&t=CAC3NYu533BObz5gbPkkggzvYyBxfxzp1VzR3ZNvnhw) ![](https://media-exp1.licdn.com/dms/image/C4D22AQE77HQ-N3cTcQ/feedshare-shrink_800/0?e=1588204800&v=beta&t=T3P6lTB0bDD8CjFIdtPVohdIQ9EeTpKEHkwvBlaOA7Q)
